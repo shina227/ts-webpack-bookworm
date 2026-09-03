@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/shina227/ts-webpack-bookworm/issues"
   },
-  "homepage": "https://github.com/shina227/ts-webpack-bookworm#readme"
+  "homepage": "https://github.com/shina227/ts-webpack-bookworm#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
