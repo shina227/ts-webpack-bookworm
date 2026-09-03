@@ -1,0 +1,21 @@
+{
+  "name": "ts-webpack-bookworm",
+  "version": "1.0.0",
+  "description": "**Instructions:**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shina227/ts-webpack-bookworm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shina227/ts-webpack-bookworm/issues"
+  },
+  "homepage": "https://github.com/shina227/ts-webpack-bookworm#readme"
+}
